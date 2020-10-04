@@ -1,5 +1,7 @@
 # Instagram Followers increase Tool
 
+# How to Install
+
 $ pkg up -y
 
 $ pkg install openssl-tool
