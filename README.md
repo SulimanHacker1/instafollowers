@@ -12,7 +12,7 @@ $ pkg install git
 
 $ git clone https://github.com/SulimanHacker1/instafollowers.git
 
-$ cd insfollow
+$ cd instafollowers
 
 $ chmod +x insfollow.sh
 
