@@ -22,7 +22,7 @@ $ bash insfollow.sh
 
 # Practical Tutorial
 
-[![IMAGE ALT TEXT HERE](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcDEC8FAoeDywMN25Vh76JyJ4t-agCrlVLo8wsfz1ppslT-K5o&usqp=CAU)](https://www.youtube.com/watch?v=U0JFbFwM_Rc)
+[![IMAGE ALT TEXT HERE](https://github.com/SulimanHacker1/instafollowers/blob/main/image.PNG)](https://www.youtube.com/watch?v=U0JFbFwM_Rc)
 
 
 # Contact Us:
