@@ -7,7 +7,7 @@ $ pkg install curl
 
 $ pkg install git
 
-$ git clone https://github.com/termuxprofessor/insfollow
+$ git clone https://github.com/SulimanHacker1/instafollowers.git
 
 $ cd insfollow
 
