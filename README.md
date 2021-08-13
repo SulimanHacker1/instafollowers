@@ -29,12 +29,12 @@ $ bash insfollow.sh
 
 # Contact Us:
 
-✅ whatsapp -03439602945
+✅ whatsapp +923439602945
 
-✅ Youtube -https://www.youtube.com/c/SulimanChannel
+✅ Youtube -https://www.youtube.com/c/SulimanChannel0
 
 ✅instagram -https://www.instagram.com/sulimanhacker0/
 
-✅ Telegram -https://t.me/hackersknowledge
+✅ Telegram -https://t.me/Cardingfree01
 
-✅ website -https://sulimankhanhacker.blogspot.com/
+✅ website -https://sulimanhacker.blogspot.com
